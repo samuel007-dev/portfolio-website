@@ -1,13 +1,13 @@
-# portfolio-website
+# Portfolio Website
 My personal portfolio website
-# description
+# Description
 A modern, responsive portfolio website built to showcase my latest projects, technical skills, and professional journey.
-# features
+# Features
 - Responsive design (mobile, tablet, desktop)
 - Simple and clean user interface
 - Projects showcase section
 - Contact information section
-# tech stack
+# Tech Stack
 -HTML
 -CSS
 -JavaScript
@@ -16,6 +16,6 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/samuel007-dev/portfolio-website.git
-# Contact
+# Contacts
 - Email: samuelmuriithi.dev@gmail.com
 - LinkedIn: www.linkedin.com/in/samuelmuriithinjugi
